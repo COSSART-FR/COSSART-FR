@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=COSSART-FR)
+[![discord](https://discordapp.com/api/guilds/592746774171484172/widget.png)](https://discord.gg/VasYV6MEJy) ![](https://komarev.com/ghpvc/?username=COSSART-FR)
 
 <!--
 **COSSART-FR/COSSART-FR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
