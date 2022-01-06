@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm COSSART</h1>
 <h3 align="center">A passionate full-stack developer web</h3>
 
-## My social networks
+## My social networks / projects
 
 <p align="center">
 <a href="https://discord.gg/8kWfWU4BXU"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" height="45" width="40"/></a> ឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵ 
